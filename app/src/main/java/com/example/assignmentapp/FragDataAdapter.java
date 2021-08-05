@@ -46,5 +46,5 @@ public class FragDataAdapter extends RecyclerView.Adapter<FragDataHolder> {
     public int getItemCount() {
         return fragDataList.size();
     }
-    
+
 }
