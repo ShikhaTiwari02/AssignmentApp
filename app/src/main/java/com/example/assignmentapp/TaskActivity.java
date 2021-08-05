@@ -24,6 +24,8 @@ public class TaskActivity extends AppCompatActivity implements MyListnerInterfac
         tasklist.add("Shikha");
         tasklist.add("Santhosh");
         tasklist.add("Rishav");
+        tasklist.add("Amit");
+        tasklist.add("Pooja");
         //set the layout
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         //Initialise Adapter
